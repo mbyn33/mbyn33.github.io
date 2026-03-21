@@ -4,7 +4,7 @@
 
 - com.android.vending.CHECK_LICENSE : 유료구매 여부 확인하는데 사용합니다. 
 
-– android.permission.WAKE_LOCK : 동영상 재생시 화면이 꺼지 않도록 하는데 사용합니다.
+- android.permission.WAKE_LOCK : 동영상 재생시 화면이 꺼지 않도록 하는데 사용합니다.
 
 - android.permission.READ_EXTERNAL_STORAGE : 구형폰에서 폴더에 저장된 동영상파일을 찾을 경우 
 
